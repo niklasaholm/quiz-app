@@ -1,0 +1,46 @@
+{
+    "question": "Which year did the Chernobyl disaster occur?",
+    "answer": "1986",
+    "alternatives": ["1986", "1978", "1991"],
+    "type": "History"
+}
+{
+    "question": "Who won the FIFA World Cup 1998 ?",
+    "answer": "France",
+    "alternatives": ["Italy", "Japan", "France", "Denmark"],
+    "type": "History"
+}
+{
+    "question": "When did sweden enter the European Union?",
+    "answer": "1995",
+    "alternatives": ["1995", "1998", "1990", "1988"],
+    "type": "History"
+}
+{
+    "question": "In which year did the Victorian era begin?",
+    "answer": "1837",
+    "alternatives": ["1837", "1755", "1640", "1583"],
+    "type": "History"
+}
+{
+    "question": "Nearly how many years did it take Sir Francis Drake to complete the first circumnavigation of the globe in 1580?",
+    "answer": "3",
+    "alternatives": ["5", "3", "2", "10"],
+    "type": "History"
+}
+{
+    "question": "What historical event occurred on December 16, 1773?",
+    "answer": "Boston Tea Party",
+    "alternatives": ["Boston Tea Party", "The Red Wedding", "The Battle of Narva"],
+    "type": "History"
+}
+{
+    "question": "Saloth Sar, born 19 May 1925, is better known by what name?",
+    "answer": "Pol Pot",
+    "alternatives": ["Pol Pot", "Kim Jong-il", "Mao Zedong"],
+    "type": "History"
+}
+
+
+
+
