@@ -1,10 +1,105 @@
 .btn-lg {
     border-radius: 0px;
-    height:50px;
-    width:200px;
+    height:10vh;
+    width:80%;
+    font-size: 250%;
+}
 
+.header h2 {
+    font-size: 80px;
+}
+
+.header a {
+    font-size: 50px;
 }
 
 .jumbotron {
-    height:500px;
+    height: 100vh;
+
+}   
+
+.jumbotron h1 {
+    font-size: 120px;
 }
+
+
+.jumbotron h2 {
+    font-size: 70px;
+    padding: 170px;
+}
+
+.jumbotron p {
+    font-size: 40px;
+}
+
+
+.question-frame {
+    margin: 50px;        
+    margin-right: 75px;
+    margin-left: 75px;
+
+
+}
+
+
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+
+
+
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+    .btn-lg {
+        border-radius: 0px;
+        height:90%;
+        width:50%;
+        font-size: 100%;
+
+    }
+
+    .header h2 {
+        font-size: 30px;
+    }
+
+    .header a {
+        font-size: 15px;
+    }   
+
+   .jumbotron {
+        height: 80vh;
+
+    }
+
+    .jumbotron h1 {
+        font-size: 100px;
+    }
+
+    .jumbotron h2 {
+        font-size: 30px;
+        padding: 50px;
+
+    }
+
+
+
+    .jumbotron p {
+        font-size: 20px;
+    }
+
+
+
+    .question-frame {
+        margin: 50px;
+        margin-right: 60px;
+        margin-left: 60px;
+    }
+
+
+
+}
+
+
